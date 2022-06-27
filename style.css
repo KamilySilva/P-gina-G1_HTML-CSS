@@ -1,0 +1,68 @@
+html body{
+    font-family: 'Open Sans', sans-serif;
+    margin:auto;
+    width: 969px;
+}
+
+#cabecalho h1{
+    color: #111;
+    font-size: 56px;
+    font-weight: 700px;
+    line-height: 64px;
+}
+
+#cabecalho h2{
+    color: #555;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+#cabecalho .autor{
+    color: #000;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 20px;
+}
+
+#cabecalho .data{
+    color:#000;
+    font-size: 12px;
+    font-weight: 400px;
+    line-height: 16.34px;
+}
+
+#materia{
+    width: 691px;
+    margin: auto;
+}
+
+#materia a{
+    color: #A6130A;
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+#materia blockquote{
+    border-left: 3px solid #A6130A;
+    color:#333;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 36px;
+    padding-left: 14px;
+}
+
+#materia h2{
+    font-size: 32px;
+    font-weight: 700px;
+    line-height: 36px;
+}
+
+#materia p{
+    color: #333;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
